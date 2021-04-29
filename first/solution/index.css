@@ -1,24 +1,24 @@
 body {
   margin: 0;
-  background-color: #D8D8D8;
+  background-color: #664e4e;
   width: 100%;
   height: 100vh;
 }
 
-.header {
+.top {
   width: 100%;
   height: 20vh;
-  background-color: #444444;
+  background-color: #e90d0d;
 }
 
-.main-content {
+.middle {
   background-color: #EFEFEF;
   margin: 0 auto;
   width: 75%;
   height: 70vh;
 }
 
-.footer { 
+.bottom {
   background-color: #222222;
   margin: 0 auto;
   width: 75%;
